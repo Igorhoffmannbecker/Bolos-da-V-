@@ -45,11 +45,11 @@ export default function Home() {
           <div className="text">
             <h1><b>Bolo de cenoura com avela e castanha!</b></h1>
             <div>
-              <Image src="/estrela.png" width="20px" height="20px"/>
-              <Image src="/estrela.png" width="20px" height="20px"/>
-              <Image src="/estrela.png" width="20px" height="20px"/>
-              <Image src="/estrela.png" width="20px" height="20px"/>
-              <Image src="/estrela.png" width="20px" height="20px"/>
+              <img src="/estrela.png" width="20px" height="20px"/>
+              <img src="/estrela.png" width="20px" height="20px"/>
+              <img src="/estrela.png" width="20px" height="20px"/>
+              <img src="/estrela.png" width="20px" height="20px"/>
+              <img src="/estrela.png" width="20px" height="20px"/>
             </div>
             <p>
               Esse novo sabor de bolo tem cobertura de avela com caramelo, massa de sabor cenoura, recheio de avela com canela. 
@@ -69,21 +69,21 @@ export default function Home() {
         <div className="vantagens container">
           <div className="vantagem-item">
             <div className="box-image">
-              <Image src="/receitas.png" width="100" height="100" />
+              <img src="/receitas.png" width="100" height="100" />
             </div>
             <h2>Receitas exclusivas!</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce viverra, neque at porta congue, nunc ex fermentum augue.</p>
           </div>
           <div className="vantagem-item">
           <div className="box-image">
-              <Image src="/vo.png" width="100" height="100" />
+              <img src="/vo.png" width="100" height="100" />
             </div>
             <h2>Feito com amor de Vó!</h2>
             <p>Nulla porta blandit ex, volutpat pharetra neque tempus vitae. Nam egestas eu purus eu rutrum. Cras et vulputate justo.</p>
           </div>
           <div className="vantagem-item">
           <div className="box-image">
-              <Image src="/delivery.png" width="100" height="100" />
+              <img src="/delivery.png" width="100" height="100" />
             </div>
             <h2>Delivery rapido!</h2>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce viverra, mauris in turpis. Donec eu odio lacinia, efficitur nibh eget, tincidunt est.</p>
@@ -101,7 +101,7 @@ export default function Home() {
             <p>Pellentesque quis augue tempus, dictum odio vehicula, vehicula metus. Nam sit amet feugiat nisl. Proin efficitur lectus nulla, ut ultricies urna condimentum vel. Nulla facilisi. In porttitor eros non dolor aliquam eleifend</p>
          </div>
          <div className="image">
-           <Image src="/bolo-chocolate.png"  width="450" height="300" />
+           <img src="/bolo-chocolate.png"  width="450" height="300" />
          </div>
        </div>
      </motion.div>
